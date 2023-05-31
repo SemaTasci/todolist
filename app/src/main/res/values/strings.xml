@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList_</string>
+    <string name="onboarding_welcome_screen_welcome">tdolist</string>
+</resources>
